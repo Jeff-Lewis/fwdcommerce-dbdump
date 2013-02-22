@@ -1,0 +1,1 @@
+{ "_id" : "50bd12f03e1bf7d257000000", "id" : 28, "title" : "test", "status" : "draft", "content" : null, "slug" : "test", "date_published" : null, "page_description" : null, "page_keywords" : null, "author" : null, "channel_id" : 1, "date_created" : { "$date" : 1354568432000 }, "is_deleted" : true, "date_deleted" : { "$date" : 1354568435000 }, "deleted_uri" : "/entries/28" }

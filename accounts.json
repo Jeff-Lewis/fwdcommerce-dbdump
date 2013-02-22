@@ -1,0 +1,2 @@
+{ "_id" : "50a5d0653e1bf7db4a000000", "date_created" : { "$date" : 1353044069000 }, "date_updated" : { "$date" : 1353044870000 }, "email" : "john@example.com", "id" : 5, "name" : "John Doe", "phone" : null }
+{ "_id" : "50aea22f3e1bf7b73f000000", "date_created" : { "$date" : 1353622063000 }, "date_updated" : { "$date" : 1353622142000 }, "email" : "jane@example.com", "id" : 9, "name" : "Jane Smith", "phone" : null }
